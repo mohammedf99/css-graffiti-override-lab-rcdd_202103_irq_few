@@ -4,6 +4,6 @@
   display: none;
 }
 
-#parent div + div {
+#parent div > div {
   display: none;
 }
