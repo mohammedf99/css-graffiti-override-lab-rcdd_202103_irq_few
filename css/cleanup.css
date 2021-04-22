@@ -4,6 +4,6 @@
   display: none;
 }
 
-#wall:nth-child(odd) {
+#wall:nth-child() {
   display: none;
 }
