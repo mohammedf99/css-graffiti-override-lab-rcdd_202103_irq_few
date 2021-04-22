@@ -4,6 +4,6 @@
   display: none;
 }
 
-#wall #parent div > .slick{
+div.slick{
   display: none;
 }
