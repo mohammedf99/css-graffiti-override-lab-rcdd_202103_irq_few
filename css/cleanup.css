@@ -4,4 +4,6 @@
   display: none;
 }
 
-#wall []
+#wall > div > div {
+  display: none;
+}
