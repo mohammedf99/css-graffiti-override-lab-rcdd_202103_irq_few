@@ -3,12 +3,3 @@
 #wall > div, #wall #tag-2, #wall #tag-3.slick {
   display: none;
 }
-
-
-#wall #tag-2{
-  display: none;
-}
-
-#wall #tag-3.slick {
-  display: none;
-}
