@@ -4,6 +4,6 @@
   display: none;
 }
 
-#parent div div[id*="tag"] {
+#parent .slick {
   display: none;
 }
